@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/algol007/simple-rest-api#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "validatorjs": "^3.18.1"
   }
 }
